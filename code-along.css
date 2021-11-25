@@ -1,3 +1,28 @@
 nav {
-  display: none;
+  /* display: none; */
 }
+
+
+img {
+  max-width: 175px;
+  height: 125px;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+aside {
+  display: flex;
+  min-width: 20%;
+  align-items: center;
+  justify-content: center;
+}
+
